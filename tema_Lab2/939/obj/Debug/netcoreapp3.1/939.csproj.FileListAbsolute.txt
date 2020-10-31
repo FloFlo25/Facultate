@@ -1,0 +1,13 @@
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.exe
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.deps.json
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.dll
+C:\Users\raulb\source\repos\Teme\939\bin\Debug\netcoreapp3.1\939.pdb
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.csprojAssemblyReference.cache
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.dll
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.pdb
+C:\Users\raulb\source\repos\Teme\939\obj\Debug\netcoreapp3.1\939.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.exe
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.deps.json
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\bin\Debug\netcoreapp3.1\2061.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab2\2061\obj\Debug\netcoreapp3.1\2061.genruntimeconfig.cache

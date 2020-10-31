@@ -1,0 +1,12 @@
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.exe
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.deps.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\bin\Debug\netcoreapp3.1\332.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab3\332\obj\Debug\netcoreapp3.1\332.genruntimeconfig.cache

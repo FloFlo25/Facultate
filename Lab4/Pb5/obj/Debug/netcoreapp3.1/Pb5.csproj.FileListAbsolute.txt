@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.exe
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.deps.json
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.runtimeconfig.json
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.runtimeconfig.dev.json
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.dll
+E:\Visual Studio\Teme\Lab4\Pb5\bin\Debug\netcoreapp3.1\Pb5.pdb
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.AssemblyInfo.cs
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.dll
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.pdb
+E:\Visual Studio\Teme\Lab4\Pb5\obj\Debug\netcoreapp3.1\Pb5.genruntimeconfig.cache

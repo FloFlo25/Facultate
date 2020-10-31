@@ -1,0 +1,13 @@
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.exe
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.deps.json
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.dll
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\bin\Debug\netcoreapp3.1\tema_MooresLaw.pdb
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.csprojAssemblyReference.cache
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.dll
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.pdb
+C:\Users\raulb\source\repos\Teme\tema_MooresLaw\obj\Debug\netcoreapp3.1\tema_MooresLaw.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.exe
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.deps.json
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.dll
+C:\Users\raulb\source\repos\Teme\1258\bin\Debug\netcoreapp3.1\1258.pdb
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.dll
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.pdb
+C:\Users\raulb\source\repos\Teme\1258\obj\Debug\netcoreapp3.1\1258.genruntimeconfig.cache

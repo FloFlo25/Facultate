@@ -1,0 +1,13 @@
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.exe
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.deps.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\bin\Debug\netcoreapp3.1\1360.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.csprojAssemblyReference.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.dll
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.pdb
+C:\Users\raulb\source\repos\Teme\tema_Lab3\1360\obj\Debug\netcoreapp3.1\1360.genruntimeconfig.cache

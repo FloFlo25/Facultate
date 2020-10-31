@@ -1,0 +1,12 @@
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.exe
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.deps.json
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.runtimeconfig.json
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.runtimeconfig.dev.json
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.dll
+C:\Users\raulb\source\repos\Teme\3179\bin\Debug\netcoreapp3.1\3179.pdb
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.AssemblyInfoInputs.cache
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.AssemblyInfo.cs
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.csproj.CoreCompileInputs.cache
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.dll
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.pdb
+C:\Users\raulb\source\repos\Teme\3179\obj\Debug\netcoreapp3.1\3179.genruntimeconfig.cache

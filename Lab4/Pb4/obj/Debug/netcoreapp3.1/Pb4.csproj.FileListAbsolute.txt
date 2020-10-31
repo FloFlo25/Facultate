@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.exe
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.deps.json
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.runtimeconfig.json
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.runtimeconfig.dev.json
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.dll
+E:\Visual Studio\Teme\Lab4\Pb4\bin\Debug\netcoreapp3.1\Pb4.pdb
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.AssemblyInfo.cs
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.dll
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.pdb
+E:\Visual Studio\Teme\Lab4\Pb4\obj\Debug\netcoreapp3.1\Pb4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.exe
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.deps.json
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.runtimeconfig.json
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.runtimeconfig.dev.json
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.dll
+E:\Visual Studio\Teme\tema_Lab3\49\bin\Debug\netcoreapp3.1\49.pdb
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.AssemblyInfo.cs
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.dll
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.pdb
+E:\Visual Studio\Teme\tema_Lab3\49\obj\Debug\netcoreapp3.1\49.genruntimeconfig.cache
