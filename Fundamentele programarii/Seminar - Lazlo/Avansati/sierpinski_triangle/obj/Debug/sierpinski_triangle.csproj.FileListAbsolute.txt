@@ -1,0 +1,10 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\bin\Debug\sierpinski_triangle.exe.config
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\bin\Debug\sierpinski_triangle.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\bin\Debug\sierpinski_triangle.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.Form1.resources
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.Properties.Resources.resources
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.csproj.GenerateResource.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\sierpinski_triangle\obj\Debug\sierpinski_triangle.pdb

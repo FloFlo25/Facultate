@@ -1,0 +1,12 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\bin\Debug\netcoreapp3.1\Sort_Capat_impare.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sort_Capat_impare\obj\Debug\netcoreapp3.1\Sort_Capat_impare.genruntimeconfig.cache

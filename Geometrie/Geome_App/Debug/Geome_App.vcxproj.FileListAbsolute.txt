@@ -1,0 +1,2 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Debug\Geome_App.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Debug\Geome_App.pdb

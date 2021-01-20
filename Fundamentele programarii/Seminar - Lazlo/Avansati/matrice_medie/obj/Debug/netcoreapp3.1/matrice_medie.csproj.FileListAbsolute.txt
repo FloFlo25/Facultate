@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\bin\Debug\netcoreapp3.1\matrice_medie.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\matrice_medie\obj\Debug\netcoreapp3.1\matrice_medie.genruntimeconfig.cache

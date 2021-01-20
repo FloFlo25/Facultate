@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\bin\Debug\netcoreapp3.1\Interclasare_date_txt.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Avansati\Interclasare_date_txt\obj\Debug\netcoreapp3.1\Interclasare_date_txt.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\bin\Debug\netcoreapp3.1\24.nov.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\obj\24.nov\obj\Debug\netcoreapp3.1\24.nov.genruntimeconfig.cache

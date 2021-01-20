@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Interclasare_date_txt/1.0.0": {
+        "runtime": {
+          "Interclasare_date_txt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interclasare_date_txt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

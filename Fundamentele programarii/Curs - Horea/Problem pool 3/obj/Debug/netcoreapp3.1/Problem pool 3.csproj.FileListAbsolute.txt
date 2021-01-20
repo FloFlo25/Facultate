@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\bin\Debug\netcoreapp3.1\Problem pool 3.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Curs - Horea\Problem pool 3\obj\Debug\netcoreapp3.1\Problem pool 3.genruntimeconfig.cache

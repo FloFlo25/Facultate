@@ -1,0 +1,5 @@
+﻿  Geome_App.cpp
+E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Geome_App.cpp(120,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Geome_App.cpp(121,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Geome_App.cpp(122,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Geome_App.vcxproj -> E:\Visual Studio\Teme\FloFlo25\Teme\Geometrie\Geome_App\Debug\Geome_App.exe

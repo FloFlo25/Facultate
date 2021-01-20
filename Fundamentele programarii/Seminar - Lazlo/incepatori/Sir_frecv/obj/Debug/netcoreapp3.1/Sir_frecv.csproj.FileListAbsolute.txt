@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\bin\Debug\netcoreapp3.1\Sir_frecv.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\Sir_frecv\obj\Debug\netcoreapp3.1\Sir_frecv.genruntimeconfig.cache

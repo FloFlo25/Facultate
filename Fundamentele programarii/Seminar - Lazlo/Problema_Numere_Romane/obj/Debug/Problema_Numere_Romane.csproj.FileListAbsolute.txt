@@ -1,0 +1,10 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\bin\Debug\Problema_Numere_Romane.exe.config
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\bin\Debug\Problema_Numere_Romane.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\bin\Debug\Problema_Numere_Romane.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.Form1.resources
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.Properties.Resources.resources
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.csproj.GenerateResource.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\Problema_Numere_Romane\obj\Debug\Problema_Numere_Romane.pdb

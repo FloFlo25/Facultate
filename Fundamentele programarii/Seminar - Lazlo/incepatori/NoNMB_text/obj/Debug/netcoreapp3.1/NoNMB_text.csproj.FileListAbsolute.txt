@@ -1,0 +1,12 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\bin\Debug\netcoreapp3.1\NoNMB_text.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Seminar - Lazlo\incepatori\NoNMB_text\obj\Debug\netcoreapp3.1\NoNMB_text.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\bin\Debug\netcoreapp3.1\03_decembrie_2020.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Arhitectura sistemelor de calcul\03_decembrie_2020\obj\Debug\netcoreapp3.1\03_decembrie_2020.genruntimeconfig.cache

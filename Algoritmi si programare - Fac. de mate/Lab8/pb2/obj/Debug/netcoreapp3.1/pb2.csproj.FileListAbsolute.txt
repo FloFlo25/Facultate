@@ -1,0 +1,12 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\bin\Debug\netcoreapp3.1\pb2.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab8\pb2\obj\Debug\netcoreapp3.1\pb2.genruntimeconfig.cache

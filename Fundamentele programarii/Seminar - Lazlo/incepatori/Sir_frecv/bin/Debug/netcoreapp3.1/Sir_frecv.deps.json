@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Sir_frecv/1.0.0": {
+        "runtime": {
+          "Sir_frecv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sir_frecv/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

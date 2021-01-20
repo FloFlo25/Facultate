@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\bin\Debug\netcoreapp3.1\Lab6.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Algoritmi si programare - Horea O\Lab6\Lab6\obj\Debug\netcoreapp3.1\Lab6.genruntimeconfig.cache
