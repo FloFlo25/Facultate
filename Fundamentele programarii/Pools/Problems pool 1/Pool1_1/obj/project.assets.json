@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Curs - Horea\\Problems pool 1\\Pool1_1\\Pool1_1.csproj",
+      "projectUniqueName": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Pools\\Problems pool 1\\Pool1_1\\Pool1_1.csproj",
       "projectName": "Pool1_1",
-      "projectPath": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Curs - Horea\\Problems pool 1\\Pool1_1\\Pool1_1.csproj",
+      "projectPath": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Pools\\Problems pool 1\\Pool1_1\\Pool1_1.csproj",
       "packagesPath": "C:\\Users\\raulb\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Curs - Horea\\Problems pool 1\\Pool1_1\\obj\\",
+      "outputPath": "E:\\Visual Studio\\Teme\\FloFlo25\\Teme\\Fundamentele programarii\\Pools\\Problems pool 1\\Pool1_1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
