@@ -1,0 +1,13 @@
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.exe
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.deps.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.runtimeconfig.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.runtimeconfig.dev.json
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\bin\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.csprojAssemblyReference.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.AssemblyInfoInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.AssemblyInfo.cs
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.dll
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.pdb
+E:\Visual Studio\Teme\FloFlo25\Teme\Fundamentele programarii\Examen_FP_Floruta_Raul\obj\Debug\netcoreapp3.1\Examen_FP_Floruta_Raul.genruntimeconfig.cache

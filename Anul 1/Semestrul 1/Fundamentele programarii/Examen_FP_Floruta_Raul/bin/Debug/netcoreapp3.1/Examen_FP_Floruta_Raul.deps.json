@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Examen_FP_Floruta_Raul/1.0.0": {
+        "runtime": {
+          "Examen_FP_Floruta_Raul.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen_FP_Floruta_Raul/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
