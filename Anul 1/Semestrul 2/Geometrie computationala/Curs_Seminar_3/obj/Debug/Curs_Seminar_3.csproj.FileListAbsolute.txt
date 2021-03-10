@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\bin\Debug\Curs_Seminar_3.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\bin\Debug\Curs_Seminar_3.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\bin\Debug\Curs_Seminar_3.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Curs_Seminar_3\obj\Debug\Curs_Seminar_3.pdb
