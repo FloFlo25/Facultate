@@ -127,5 +127,14 @@ namespace Curs_Seminar_3
             TextOutput.Text =$"{Aria}";
 
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                puncte[i].y++;
+                pictureBox1.Load();
+            }
+        }
     }
 }
