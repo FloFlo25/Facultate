@@ -43,14 +43,17 @@
             this.label5 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
+            this.inaltimi = new System.Windows.Forms.Button();
+            this.TextOutput = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(132, 1);
+            this.pictureBox1.Location = new System.Drawing.Point(152, 1);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(668, 449);
+            this.pictureBox1.Size = new System.Drawing.Size(650, 450);
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
@@ -170,11 +173,43 @@
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(29, 399);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(75, 23);
+            this.button3.TabIndex = 5;
+            this.button3.Text = "Clear";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // inaltimi
+            // 
+            this.inaltimi.Location = new System.Drawing.Point(29, 278);
+            this.inaltimi.Name = "inaltimi";
+            this.inaltimi.Size = new System.Drawing.Size(75, 23);
+            this.inaltimi.TabIndex = 6;
+            this.inaltimi.Text = "Inaltimi";
+            this.inaltimi.UseVisualStyleBackColor = true;
+            this.inaltimi.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // TextOutput
+            // 
+            this.TextOutput.AutoSize = true;
+            this.TextOutput.Location = new System.Drawing.Point(694, 19);
+            this.TextOutput.Name = "TextOutput";
+            this.TextOutput.Size = new System.Drawing.Size(35, 13);
+            this.TextOutput.TabIndex = 7;
+            this.TextOutput.Text = "label7";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.TextOutput);
+            this.Controls.Add(this.inaltimi);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label5);
@@ -216,6 +251,9 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button inaltimi;
+        private System.Windows.Forms.Label TextOutput;
     }
 }
 

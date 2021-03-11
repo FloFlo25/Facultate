@@ -52,44 +52,12 @@ namespace Curs_Seminar_3
             puncte.Add(C);
         }
 
-        public void createLabel()
-        {
-            gfx.DrawString("A", Font, Brushes.Black, puncte[0].x - 3, puncte[0].y - 3);
-            gfx.DrawString("B", Font, Brushes.Black, puncte[1].x + 3, puncte[1].y - 3);
-            gfx.DrawString("C", Font, Brushes.Black, puncte[2].x - 3, puncte[2].y + 3);
-        }
-
-
         private void button1_Click(object sender, EventArgs e)
         {
             gfx.Clear(Color.White);
-            /*int x1 = int.Parse(textBox1.Text);
-            int y1 = int.Parse(textBox2.Text);
-            int x2 = int.Parse(textBox3.Text);
-            int y2 = int.Parse(textBox4.Text);
-            int x3 = int.Parse(textBox5.Text);
-            int y3 = int.Parse(textBox6.Text);*//*
-
-            int x1 = 50;
-            int y1 = 250;
-            int x2 = 450;
-            int y2 = 250;
-            int x3 = 250;
-            int y3 = 10;*/
+            puncte.Clear();
 
             readTextBox();
-
-            /* PointF[] points = new PointF[]
-             {
-                     new PointF(x: x1, y: y1),
-                     new PointF(x: x2, y: y2),
-                     new PointF(x: x3, y: y3),
-             };*/
-
-
-
-            //gfx.DrawPolygon(pen, points);
-
             //draw first 2 lines
             for (int i = 1; i < puncte.Count; i++)
             {
@@ -100,17 +68,15 @@ namespace Curs_Seminar_3
             int countPuncte = puncte.Count;
             gfx.DrawLine(Pens.Black, puncte[countPuncte - 1].x, puncte[countPuncte - 1].y, puncte[0].x, puncte[0].y);
 
-            createLabel();
+            //createLabel();
             //gfx.DrawString("A", Font, Brushes.Black, puncte[0].x - 2, puncte[0].y - 2);
-
-            
-
 
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             gfx = pictureBox1.CreateGraphics();
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -126,6 +92,40 @@ namespace Curs_Seminar_3
             //yellowLine
             gfx.FillEllipse(new SolidBrush(Color.Yellow), (puncte[1].x + puncte[2].x) / 2 - 5, (puncte[1].y + puncte[2].y) / 2 - 5, 10, 10);
             gfx.DrawLine(new Pen(Color.Yellow), (puncte[1].x + puncte[2].x) / 2, (puncte[1].y + puncte[2].y) / 2, puncte[0].x, puncte[0].y);
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            pictureBox1.Image = null;
+            puncte.Clear();
+            textBox1.Text = null;
+            textBox2.Text = null;
+            textBox3.Text = null;
+            textBox4.Text = null;
+            textBox5.Text = null;
+            textBox6.Text = null;
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            
+            int pantaAB;
+            int p,Aria;
+            int lungAB,lungAC,lungBC;
+
+
+            lungAB = 8;//(int)Math.Sqrt(Math.Pow(puncte[1].x - puncte[0].x, 2)+ Math.Pow(puncte[1].y - puncte[0].y, 2));
+            lungAC = 15;//(int)Math.Sqrt(Math.Pow(puncte[2].x - puncte[0].x, 2) + Math.Pow(puncte[2].y - puncte[0].y, 2));
+            lungBC = 17;//(int)Math.Sqrt(Math.Pow(puncte[2].x - puncte[1].x, 2) + Math.Pow(puncte[2].y - puncte[1].y, 2));
+
+            p = (lungAB + lungAC + lungBC) / 2;
+
+            Aria = (int)Math.Sqrt(p * (p - lungAB) * (p - lungAC) * (p - lungBC));
+
+            //pantaAB = (puncte[0].y - puncte[1].y) / (puncte[0].x - puncte[1].x);
+
+            TextOutput.Text =$"{Aria}";
+
         }
     }
 }

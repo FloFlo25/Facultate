@@ -1,0 +1,5 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Testare_Alex\obj\Debug\Testare_Alex.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Testare_Alex\obj\Debug\Geometrie_Desenat.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Testare_Alex\obj\Debug\Testare_Alex.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Testare_Alex\obj\Debug\Testare_Alex.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Testare_Alex\obj\Debug\Testare_Alex.csproj.CoreCompileInputs.cache
