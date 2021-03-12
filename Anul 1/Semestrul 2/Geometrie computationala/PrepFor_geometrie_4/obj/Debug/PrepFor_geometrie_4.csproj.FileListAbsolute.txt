@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\bin\Debug\PrepFor_geometrie_4.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\bin\Debug\PrepFor_geometrie_4.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\bin\Debug\PrepFor_geometrie_4.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\PrepFor_geometrie_4\obj\Debug\PrepFor_geometrie_4.pdb
