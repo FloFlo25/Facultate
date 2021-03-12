@@ -19,14 +19,14 @@ namespace Tema_Laborator_3_Robot_Object
             //TODO make an enum of Targets {Aliens, Humans, GiantFriendlyRobot, Superheroes}
 
 
-            Wellcome();
+            Welcome();
 
             
         }
 
         
 
-        private static void Wellcome()
+        private static void Welcome()
         {
             Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("██████╗░░█████╗░██████╗░░█████╗░████████╗  ██╗░░██╗██╗██╗░░░░░██╗░░░░░███████╗██████╗");
@@ -38,7 +38,7 @@ namespace Tema_Laborator_3_Robot_Object
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Hello player! Wellcome to the newest world destroying simulator of 2021!" +
+            Console.WriteLine("Hello player! Welcome to the newest world destroying simulator of 2021!" +
                 "In this simulation you witness the destruction of the mighty ROBOT KILLER");
 
             Console.ResetColor();

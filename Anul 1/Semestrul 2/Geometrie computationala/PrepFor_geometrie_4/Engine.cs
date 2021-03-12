@@ -28,6 +28,7 @@ namespace PrepFor_geometrie_4
 
         public static void GrahamAlghoritm(Graphics grp)
         {
+            //int degree = Math.Atan2();
             lowestYpoint = new myPoint(0, 0);
             foreach (myPoint point in points)
             {
@@ -36,6 +37,8 @@ namespace PrepFor_geometrie_4
                     lowestYpoint.Y = point.Y;
                 }
             }
+
+
 
             
         }
