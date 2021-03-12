@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\bin\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Tema_Laborator_3_Robot_Object\obj\Debug\netcoreapp3.1\Tema_Laborator_3_Robot_Object.genruntimeconfig.cache

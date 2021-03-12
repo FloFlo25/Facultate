@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\bin\Debug\netcoreapp3.1\Laborator_3.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator_3\obj\Debug\netcoreapp3.1\Laborator_3.genruntimeconfig.cache

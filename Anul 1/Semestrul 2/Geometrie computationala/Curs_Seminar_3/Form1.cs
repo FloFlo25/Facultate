@@ -15,7 +15,6 @@ namespace Curs_Seminar_3
 
         public Graphics gfx;
         public Pen pen = new Pen(Color.Black);
-        //public PointF[] points = new PointF[3];
         private List<point> puncte = new List<point>();
 
         
@@ -31,6 +30,18 @@ namespace Curs_Seminar_3
             public int x, y;
         }
 
+        public void drawTriangle()
+        {
+            //draw first 2 lines
+            for (int i = 1; i < puncte.Count; i++)
+            {
+                gfx.DrawLine(Pens.Black, puncte[i].x, puncte[i].y, puncte[i - 1].x, puncte[i - 1].y);
+            }
+
+            //draw third line
+            int countPuncte = puncte.Count;
+            gfx.DrawLine(Pens.Black, puncte[countPuncte - 1].x, puncte[countPuncte - 1].y, puncte[0].x, puncte[0].y);
+        }
 
         public void readTextBox()
         {
@@ -58,6 +69,10 @@ namespace Curs_Seminar_3
             puncte.Clear();
 
             readTextBox();
+            drawTriangle();
+
+            /*
+
             //draw first 2 lines
             for (int i = 1; i < puncte.Count; i++)
             {
@@ -68,9 +83,7 @@ namespace Curs_Seminar_3
             int countPuncte = puncte.Count;
             gfx.DrawLine(Pens.Black, puncte[countPuncte - 1].x, puncte[countPuncte - 1].y, puncte[0].x, puncte[0].y);
 
-            //createLabel();
-            //gfx.DrawString("A", Font, Brushes.Black, puncte[0].x - 2, puncte[0].y - 2);
-
+            */
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -128,12 +141,51 @@ namespace Curs_Seminar_3
 
         }
 
+
+
+
+        //sus
         private void button9_Click(object sender, EventArgs e)
         {
             for (int i = 0; i < 3; i++)
             {
+                puncte[i].y--;
+                pictureBox1.Refresh();
+                drawTriangle();
+            }
+        }
+
+        //dreapta
+        private void button8_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                puncte[i].x++;
+                pictureBox1.Refresh();
+                drawTriangle();
+            }
+        }
+
+
+        //jos
+        private void button7_Click(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 3; i++)
+            {
                 puncte[i].y++;
-                pictureBox1.Load();
+                pictureBox1.Refresh();
+                drawTriangle();
+            }
+        }
+
+        //stanga
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            for (int i = 0; i < 3; i++)
+            {
+                puncte[i].x--;
+                pictureBox1.Refresh();
+                drawTriangle();
             }
         }
     }
