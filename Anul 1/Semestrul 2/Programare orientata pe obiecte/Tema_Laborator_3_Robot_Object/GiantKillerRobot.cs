@@ -2,12 +2,11 @@
 {
     public class GiantKillerRobot
     {
-        private int Health = 100;
+        private static int Health = 100;
 
         public GiantKillerRobot()
         {
         }
 
-        public int MyProperty { get; set; }
     }
 }

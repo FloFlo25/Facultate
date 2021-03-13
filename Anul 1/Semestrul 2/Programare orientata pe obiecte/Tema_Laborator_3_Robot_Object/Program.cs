@@ -4,44 +4,14 @@ namespace Tema_Laborator_3_Robot_Object
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            GiantFriendlyRobot goodBot = new GiantFriendlyRobot();
-            GiantKillerRobot badBot = new GiantKillerRobot();
-            
+            Engine.Welcome();
+            Engine.Selection();
+                        
 
-            #region Variables
-
-
-            #endregion
-
-            
-            //TODO make an enum of Targets {Aliens, Humans, GiantFriendlyRobot, Superheroes}
-
-
-            Welcome();
-
-            
         }
 
-        
-
-        private static void Welcome()
-        {
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("██████╗░░█████╗░██████╗░░█████╗░████████╗  ██╗░░██╗██╗██╗░░░░░██╗░░░░░███████╗██████╗");
-            Console.WriteLine("██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝  ██║░██╔╝██║██║░░░░░██║░░░░░██╔════╝██╔══██╗");
-            Console.WriteLine("██████╔╝██║░░██║██████╦╝██║░░██║░░░██║░░░  █████═╝░██║██║░░░░░██║░░░░░█████╗░░██████╔╝");
-            Console.WriteLine("██╔══██╗██║░░██║██╔══██╗██║░░██║░░░██║░░░  ██╔═██╗░██║██║░░░░░██║░░░░░██╔══╝░░██╔══██╗");
-            Console.WriteLine("██║░░██║╚█████╔╝██████╦╝╚█████╔╝░░░██║░░░  ██║░╚██╗██║███████╗███████╗███████╗██║░░██║");
-            Console.WriteLine("╚═╝░░╚═╝░╚════╝░╚═════╝░░╚════╝░░░░╚═╝░░░  ╚═╝░░╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚═╝");
-            Console.WriteLine();
-
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine("Hello player! Welcome to the newest world destroying simulator of 2021!" +
-                "In this simulation you witness the destruction of the mighty ROBOT KILLER");
-
-            Console.ResetColor();
-        }
     }
 }
