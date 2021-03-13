@@ -3,13 +3,15 @@ using System.IO;
 using System.Collections.Generic;
 using System.Text;
 
-
 namespace Tema_Laborator_3_Robot_Object
 {
-    public enum Planets
+    public class Robots
     {
-        Earth,
-        Mars,
-        Cybertron
+        private int hp;
+        private int dmg;
+        private int armor;
+
+
+
     }
 }

@@ -1,14 +1,16 @@
 ﻿using System;
-using System.IO;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Tema_Laborator_3_Robot_Object
 {
-    
+
     public class Engine
     {
         public static string choice;
+        public static Planets planet;
+
+        /// <summary>
+        /// Welcoming starting text
+        /// </summary>
         public static void Welcome()
         {
             Console.ForegroundColor = ConsoleColor.Red;
@@ -24,10 +26,13 @@ namespace Tema_Laborator_3_Robot_Object
             Console.WriteLine("Hello player! Welcome to the newest world destroying simulator of 2021!" +
                 "In this simulation you witness the destruction of the mighty ROBOT KILLER");
             Console.WriteLine();
-
             Console.ResetColor();
         }
-        public static void Selection()
+
+        /// <summary>
+        /// Setting the value of choice for planetSelector parammeter
+        /// </summary>
+        public static void inputSelection()
         {
             Console.WriteLine("Choose a simulation scenario by selecting the wanted planet on which you want the simulation to happen: ");
 
@@ -49,23 +54,27 @@ namespace Tema_Laborator_3_Robot_Object
             {
                 Console.WriteLine("Wrong selections.. please try selecting one of the 3 planets");
                 Console.ReadKey();
-                Selection();
+                inputSelection();
             }
         }
 
-
+        /// <summary>
+        /// A switch_case function that is connected with Selection()
+        /// </summary>
+        /// <param name="choice"></param>
         public static void planetSelector(string choice)
         {
+
             switch (choice)
             {
                 case "Earth":
-                    Planets.Earth();
+                    planet = Planets.Earth;
                     break;
                 case "Mars":
-                    Planets.Mars();
+                    planet = Planets.Mars;
                     break;
                 case "Cybertron":
-                    Planets.Cybertron();
+                    planet = Planets.Cybertron;
                     break;
                 default:
                     break;
@@ -74,5 +83,5 @@ namespace Tema_Laborator_3_Robot_Object
     }
 
 
-    
+
 }

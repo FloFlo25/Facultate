@@ -8,7 +8,7 @@ namespace Tema_Laborator_3_Robot_Object
         static void Main(string[] args)
         {
             Engine.Welcome();
-            Engine.Selection();
+            Engine.inputSelection();
                         
 
         }
