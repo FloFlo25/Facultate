@@ -8,9 +8,9 @@ namespace Tema_Laborator_3_Robot_Object
         static void Main(string[] args)
         {
             Engine.Welcome();
-            Engine.inputSelection();
-                        
-
+            Planets.planetSelector();
+            Engine.startFight(Planets.target, Planets.KillerRobot);
+            Engine.showHealth(Planets.target, Planets.KillerRobot);
         }
 
     }

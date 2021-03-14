@@ -5,21 +5,20 @@ namespace Tema_Laborator_3_Robot_Object
 
     public class Engine
     {
-        public static string choice;
-        public static Planets planet;
-
+        
         /// <summary>
         /// Welcoming starting text
         /// </summary>
         public static void Welcome()
         {
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("██████╗░░█████╗░██████╗░░█████╗░████████╗  ██╗░░██╗██╗██╗░░░░░██╗░░░░░███████╗██████╗");
-            Console.WriteLine("██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝  ██║░██╔╝██║██║░░░░░██║░░░░░██╔════╝██╔══██╗");
-            Console.WriteLine("██████╔╝██║░░██║██████╦╝██║░░██║░░░██║░░░  █████═╝░██║██║░░░░░██║░░░░░█████╗░░██████╔╝");
-            Console.WriteLine("██╔══██╗██║░░██║██╔══██╗██║░░██║░░░██║░░░  ██╔═██╗░██║██║░░░░░██║░░░░░██╔══╝░░██╔══██╗");
-            Console.WriteLine("██║░░██║╚█████╔╝██████╦╝╚█████╔╝░░░██║░░░  ██║░╚██╗██║███████╗███████╗███████╗██║░░██║");
-            Console.WriteLine("╚═╝░░╚═╝░╚════╝░╚═════╝░░╚════╝░░░░╚═╝░░░  ╚═╝░░╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚═╝");
+            Console.WriteLine();
+            Console.WriteLine("   ██████╗░░█████╗░██████╗░░█████╗░████████╗  ██╗░░██╗██╗██╗░░░░░██╗░░░░░███████╗██████╗");
+            Console.WriteLine("   ██╔══██╗██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝  ██║░██╔╝██║██║░░░░░██║░░░░░██╔════╝██╔══██╗");
+            Console.WriteLine("   ██████╔╝██║░░██║██████╦╝██║░░██║░░░██║░░░  █████═╝░██║██║░░░░░██║░░░░░█████╗░░██████╔╝");
+            Console.WriteLine("   ██╔══██╗██║░░██║██╔══██╗██║░░██║░░░██║░░░  ██╔═██╗░██║██║░░░░░██║░░░░░██╔══╝░░██╔══██╗");
+            Console.WriteLine("   ██║░░██║╚█████╔╝██████╦╝╚█████╔╝░░░██║░░░  ██║░╚██╗██║███████╗███████╗███████╗██║░░██║");
+            Console.WriteLine("   ╚═╝░░╚═╝░╚════╝░╚═════╝░░╚════╝░░░░╚═╝░░░  ╚═╝░░╚═╝╚═╝╚══════╝╚══════╝╚══════╝╚═╝░░╚═╝");
             Console.WriteLine();
 
             Console.ForegroundColor = ConsoleColor.Yellow;
@@ -27,6 +26,8 @@ namespace Tema_Laborator_3_Robot_Object
                 "In this simulation you witness the destruction of the mighty ROBOT KILLER");
             Console.WriteLine();
             Console.ResetColor();
+
+            inputSelection();
         }
 
         /// <summary>
@@ -48,37 +49,58 @@ namespace Tema_Laborator_3_Robot_Object
             Console.WriteLine("Cybertron");
             Console.ResetColor();
 
-            Console.Write("Selection: "); choice = Console.ReadLine();
+            Console.Write("Selection: "); Planets.choice = Console.ReadLine();
 
-            if (!(choice == "Earth" || choice == "Mars" || choice == "Cybertron"))
+            if (!(Planets.choice == "Earth" || Planets.choice == "Mars" || Planets.choice == "Cybertron"))
             {
                 Console.WriteLine("Wrong selections.. please try selecting one of the 3 planets");
                 Console.ReadKey();
-                inputSelection();
+                Console.Clear();
+                Welcome();
             }
         }
 
-        /// <summary>
-        /// A switch_case function that is connected with Selection()
-        /// </summary>
-        /// <param name="choice"></param>
-        public static void planetSelector(string choice)
+        public static void startFight(Target target, Robots Killer)
         {
+            Console.Clear();
 
-            switch (choice)
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine($"So it would seam that you chose the scenario happening on the planet {Planets.choice}. \n" +
+                $"In this scenario the Giant Killer Robot will fight the fearsome {Planets.target.type} and will try to take down as many as possible. \n");
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine($"INSTRUCTIONS: After every event happening you have to press SPACEBAR");
+            Console.ResetColor();
+
+
+        }
+
+
+        public static void showHealth(Target target, Robots Killer)
+        {
+            //hp bar killer
+            Console.Write($"[|");
+            if (Killer.IsAlive)
             {
-                case "Earth":
-                    planet = Planets.Earth;
-                    break;
-                case "Mars":
-                    planet = Planets.Mars;
-                    break;
-                case "Cybertron":
-                    planet = Planets.Cybertron;
-                    break;
-                default:
-                    break;
+                for (int i = 0; i < Killer.HP/10; i++)
+                {
+                    Console.Write("█|");
+                }
             }
+            Console.WriteLine("]");
+
+
+            //hp bar target
+            Console.Write("                          [|");
+
+            if (target.IsAlive)
+            {
+                for (int i = 0; i < target.health / 10; i++)
+                {
+                    Console.Write("█|");
+                }
+            }
+            Console.WriteLine("]");
         }
     }
 
