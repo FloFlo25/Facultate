@@ -46,13 +46,6 @@ namespace PrepFor_geometrie_4
             }
         }
 
-
-        public static void problemaPulii(Graphics grp)
-        {
-
-        }
-
-
         public static void drawRandom(Graphics grp)
         {
             Random rnd = new Random();

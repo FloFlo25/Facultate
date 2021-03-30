@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\bin\Debug\Jarvis_Graham_Algh.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\bin\Debug\Jarvis_Graham_Algh.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\bin\Debug\Jarvis_Graham_Algh.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\Jarvis_Graham_Algh\obj\Debug\Jarvis_Graham_Algh.pdb
