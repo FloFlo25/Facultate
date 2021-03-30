@@ -32,6 +32,14 @@ namespace PrepFor_geometrie_4
             this.drawColor = drawColor;
         }
 
+        /*public myPoint(Random rndX, Random rndY, Color fillColor, Color drawColor)
+        {
+            this.X = rndX.Next(myGraphics.resX);
+            this.Y = rndY.Next(myGraphics.resY);
+            this.fillColor = fillColor;
+            this.drawColor = drawColor;
+        }*/
+
         public void draw(Graphics grp)
         {
             Pen pen = new Pen(drawColor);

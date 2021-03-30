@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\bin\Debug\netcoreapp3.1\Curs 5.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Curs 5\obj\Debug\netcoreapp3.1\Curs 5.genruntimeconfig.cache

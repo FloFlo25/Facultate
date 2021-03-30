@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\bin\Debug\netcoreapp3.1\pb37_siteLaslo.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\pb37_siteLaslo\obj\Debug\netcoreapp3.1\pb37_siteLaslo.genruntimeconfig.cache

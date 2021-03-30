@@ -15,7 +15,7 @@ namespace PrepFor_geometrie_4
         public static Graphics grp;
         public static PictureBox display;
         public static int resX, resY;
-        public static Color backColor = Color.Gray;
+        public static Color backColor = Color.LightGray;
 
         public static void initGraph(PictureBox Display)
         {
