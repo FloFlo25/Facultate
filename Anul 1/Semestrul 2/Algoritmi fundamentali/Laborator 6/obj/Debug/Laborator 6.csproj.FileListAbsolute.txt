@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\bin\Debug\Laborator 6.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\bin\Debug\Laborator 6.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\bin\Debug\Laborator 6.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator 6.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator_6.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator_6.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator 6.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator 6.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator 6.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\Laborator 6\obj\Debug\Laborator 6.pdb
