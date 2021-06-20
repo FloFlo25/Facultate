@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\bin\Debug\Selection sort.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\bin\Debug\Selection sort.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\bin\Debug\Selection sort.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection sort.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection_sort.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection sort.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection sort.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection sort.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection sort.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\Selection sort\obj\Debug\Selection_sort.Form1.resources

@@ -30,6 +30,21 @@ namespace PrepFor_geometrie_4
             myGraphics.refreshGraph();
         }
 
+        public static bool isPrime(int n)
+        {
+            // Corner case
+            if (n <= 1)
+                return false;
+
+            // Check from 2 to n-1
+            for (int i = 2; i < n; i++)
+                if (n % i == 0)
+                    return false;
+
+            return true;
+        }
+
+
         private void btn_addPoint_Click(object sender, EventArgs e)
         {
             float X = float.Parse(textBox1.Text);

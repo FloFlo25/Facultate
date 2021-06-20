@@ -1,0 +1,7 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\bin\Debug\Partea_practica.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\bin\Debug\Partea_practica.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\bin\Debug\Partea_practica.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\obj\Debug\Partea_practica.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\obj\Debug\Partea_practica.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\obj\Debug\Partea_practica.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Partea_practica\obj\Debug\Partea_practica.pdb

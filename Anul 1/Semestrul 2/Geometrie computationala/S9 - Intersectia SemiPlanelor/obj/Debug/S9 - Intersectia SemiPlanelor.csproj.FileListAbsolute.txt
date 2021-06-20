@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\bin\Debug\S9 - Intersectia SemiPlanelor.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\bin\Debug\S9 - Intersectia SemiPlanelor.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\bin\Debug\S9 - Intersectia SemiPlanelor.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9 - Intersectia SemiPlanelor.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9___Intersectia_SemiPlanelor.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9___Intersectia_SemiPlanelor.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9 - Intersectia SemiPlanelor.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9 - Intersectia SemiPlanelor.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9 - Intersectia SemiPlanelor.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Geometrie computationala\S9 - Intersectia SemiPlanelor\obj\Debug\S9 - Intersectia SemiPlanelor.pdb

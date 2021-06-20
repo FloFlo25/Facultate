@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\bin\Debug\netcoreapp3.1\PARTIAL.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\PARTIAL\obj\Debug\netcoreapp3.1\PARTIAL.genruntimeconfig.cache

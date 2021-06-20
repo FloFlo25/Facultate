@@ -1,0 +1,13 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\bin\Debug\netcoreapp3.1\selectionSortConsole.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Algoritmi fundamentali\1. Incepatori\selectionSortConsole\obj\Debug\netcoreapp3.1\selectionSortConsole.genruntimeconfig.cache
