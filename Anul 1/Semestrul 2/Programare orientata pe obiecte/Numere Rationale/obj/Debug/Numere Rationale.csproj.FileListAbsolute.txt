@@ -1,0 +1,7 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\bin\Debug\Numere Rationale.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\bin\Debug\Numere Rationale.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\bin\Debug\Numere Rationale.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\obj\Debug\Numere Rationale.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\obj\Debug\Numere Rationale.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\obj\Debug\Numere Rationale.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Rationale\obj\Debug\Numere Rationale.pdb
