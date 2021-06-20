@@ -1,0 +1,7 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\bin\Debug\Numere Complexe.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\bin\Debug\Numere Complexe.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\bin\Debug\Numere Complexe.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\obj\Debug\Numere Complexe.csprojAssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\obj\Debug\Numere Complexe.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\obj\Debug\Numere Complexe.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 1\Semestrul 2\Programare orientata pe obiecte\Numere Complexe\obj\Debug\Numere Complexe.pdb
