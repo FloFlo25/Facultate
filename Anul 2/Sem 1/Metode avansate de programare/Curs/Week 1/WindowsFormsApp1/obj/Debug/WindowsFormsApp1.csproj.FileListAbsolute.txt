@@ -1,0 +1,10 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Curs\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

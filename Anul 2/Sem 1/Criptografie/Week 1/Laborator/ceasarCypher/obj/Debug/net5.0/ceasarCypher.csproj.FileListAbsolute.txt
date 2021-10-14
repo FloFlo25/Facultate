@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ref\ceasarCypher.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\bin\Debug\net5.0\ceasarCypher.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ref\ceasarCypher.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 1\Laborator\ceasarCypher\obj\Debug\net5.0\ceasarCypher.genruntimeconfig.cache

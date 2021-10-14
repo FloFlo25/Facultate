@@ -1,0 +1,112 @@
+a) A1 si A2 si A3
+b) nA1 si nA2 si nA3
+c) (A1 si nA2 si nA3) sau (nA1 si nA2 si A3) sau 
+(nA1 si A2 si nA3)
+d) a sau (A1 si A2 si nA3) sau (nA1 si A2 si A3) sau 
+(A1 si nA2 si A3)
+e) b sau c
+   (A1 si nA2 si nA3) sau (nA1 si A2 si nA3) sau 
+   (nA1 si nA2 si A3) sau (nA1 si nA2 si nA3)
+-----------
+∩ sau
+∪ si
+Ai i=1,3
+Ai - debitor solvabil
+
+
+
+
+
+
+
+
+Problema 1: Un sofer are de livrat Ai (i=1,3) comenzi, Ai fiind o comanda livrata. Sa se exprime urmatoarele evenimente:
+a) toate comenzile au fost livrate
+b) doar o comanda a fost livrata
+c) mai putin de 3 comenzi au fost livrate
+d) cel putin prima comanda a fost livrata
+
+Rezolvare:
+a) A1 si A2 si A3
+b) (A1 si nA2 si nA3) sau (nA1 si A2 si nA3) sau (nA1 si nA2 si A3)
+c) (nA1 si nA2 si nA3) sau (A1 si nA2 si nA3) sau (nA1 si A2 si nA3) sau (nA1 si nA2 si A3) sau
+   (A1 si A2 si nA3) sau (nA1 si A2 si A3) sau (A1 si nA2 si A3)
+d) (A1 si nA2 si nA3) sau (A1 si A2 si nA3) sau (A1 si nA2 si A3) sau (A1 si A2 si A3)
+
+
+
+Problema 2: La un restaurant in meniul de bauturi se regasesc urmatoarele bauturi care pot fi comandate sau nu: cafea (C), apa (A), fresh de portocale (F). Scrieti relatiile eevenimentelor urmatoare:
+a) toate bauturile sunt comandate
+b) doar cafeaua este comandata
+c) cel putin o bautura este comandata
+
+Rezolvare:
+a) C si A si F
+b) C si nA si nF
+c) (C si nA si nF) sau (nC si A si nF) sau (nC si nA si F) sau 
+   (C si A si nF) sau (C si nA si F) sau (nC si A si F) sau
+   (C si A si F)
+
+
+
+
+
+
+
+
+
+P1:
+a) A1 si A2 si A3
+b) A1 sau A2 sau A3
+c) (nA1 si nA2 si nA3) sau (A1 si nA2 si nA3) sau 
+   (nA1 si nA2 si A3) sau (nA1 si A2 si nA3) sau 
+   (A1 si A2 si nA3) sau (nA1 si A2 si A3) sau 
+   (A1 si nA2 si A3)
+d) (A1 si nA2 si nA3) sau (A1 si A2 si nA3) sau (A1 si nA2 si A3) sau (A1 si A2 si A3) 
+
+
+P2:
+a) C si A si F
+b) C si nA si nF
+c) (C si nA si nF) sau (nC si A si nF) sau 
+   (nC si nA si F) sau (C si A si nF) sau 
+   (nC si A si F) sau (C si nA si F) sau
+   (C si A si F)
+
+
+
+
+
+
+
+
+
+
+
+a) A1 si A2 si A3
+
+b) (A1 si nA2 si nA3) sau (nA1 si nA2 si A3) sau 
+   (nA1 si A2 si nA3) sau
+   (A1 si A2 si nA3) sau (nA1 si A2 si A3) sau 
+   (A1 si nA2 si A3) sau (A1 si A2 si A3)
+
+c) (A1 si nA2 si nA3) sau (nA1 si A2 si nA3) sau 
+   (nA1 si nA2 si A3) sau (nA1 si nA2 si nA3)
+
+d) nA1 si nA2 si nA3
+
+
+
+
+
+B1 si F1 si F2
+B1 si F1 si F3
+B1 si F2 si F3
+sau
+B2 si F1 si F2
+B2 si F1 si F3
+B2 si F2 si F3
+sau
+B3 si F1 si F2
+B3 si F1 si F3
+B3 si F2 si F3

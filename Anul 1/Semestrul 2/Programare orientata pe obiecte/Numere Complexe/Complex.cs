@@ -20,7 +20,6 @@
         }
         #endregion
 
-
         #region Constructors
         public Complex()
         {
@@ -34,7 +33,7 @@
         }
         #endregion
 
-
+        #region Methods
         public Complex adunare(Complex complex)
         {
             this.ParteaReala += complex.ParteaReala;
@@ -79,6 +78,6 @@
             }
 
         }
-
+        #endregion
     }
 }
