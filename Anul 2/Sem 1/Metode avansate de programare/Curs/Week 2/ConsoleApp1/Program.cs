@@ -5,15 +5,8 @@
         static void Main(string[] args)
         {
             Stack B = new Stack();
-            B.Push(1);
-            B.Push(2);
-            B.Push(3);
-            B.Push(4);
-            B.Push(5);
-            B.Push(6);
-            B.Pop();
-            B.Pop();
-            B.View();
+
+            B.RPN("(2+5*5*2)");
 
 
 

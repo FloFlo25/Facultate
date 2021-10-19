@@ -1,0 +1,37 @@
+1. Cifrul Vernam (One Time Pad)
+p = 0011; XOR - eXclusive OR
+k = 1001;
+--------
+c = 1010;
+k = 1001;
+--------
+d = 0011; (d este egal cu p)
+
+Singurul cifru sigur neconditionat dpdv al teoriei informatiei. 
+
+!!! Neajuns: lungimea cheii trebuie sa fie egala sau mai mare cu lungimea textului clar. (din aceasta cauza este nepractic la ora actuala)
+
+
+
+Scrieti un program care face doua implementari pentru OneTimePad. 
+a. se interpreteaza mesajul ca o secventa de biti si se face operatia XOR intre acei biti.
+b. se interpreteaza mesajul ca un text format din litere si se face operatia mod 26 intre literele din text si literele din cheie. 
+
+2. Cifrul Vigenere
+https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher
+
+Obs. acest cifru este un cifru care face substitutie polialfabetica, prin urmare frecventa de aparitie a literelor din textul clar nu se mai pastreaza. 
+
+Scrieti un program care implementeaza cifrul Vigenere (criptare/decriptare - optional puteti incerca si criptanaliza). 
+Cheia de criptare este formata din n permutari ale alfabetului - numerotate de la la n-1. p_0 ->> p_{n-1}
+
+Litera de pe pozitia k (unde k incepe de la 0) din textul clar va fi inlocuita cu litera data de permutarea p_{k mod n}
+
+
+
+3. Cifrul Playfair
+https://en.wikipedia.org/wiki/Playfair_cipher
+
+Scrieti un program care realizeaza criptare/decriptare cu cifrul Playfair. (optional criptanaliza)
+
+
