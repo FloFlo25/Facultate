@@ -1,0 +1,16 @@
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.exe
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.deps.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.runtimeconfig.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.runtimeconfig.dev.json
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\ref\Laborator - Vernam_PlayFair.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\bin\Debug\net5.0\Laborator - Vernam_PlayFair.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.csproj.AssemblyReference.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.GeneratedMSBuildEditorConfig.editorconfig
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.AssemblyInfoInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.AssemblyInfo.cs
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.csproj.CoreCompileInputs.cache
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\ref\Laborator - Vernam_PlayFair.dll
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.pdb
+E:\2.Visual Studio\FloFlo25\Facultate\Anul 2\Sem 1\Criptografie\Week 4\Laborator - Vernam_PlayFair\obj\Debug\net5.0\Laborator - Vernam_PlayFair.genruntimeconfig.cache

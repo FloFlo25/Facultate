@@ -3,7 +3,7 @@ p = 0011; XOR - eXclusive OR
 k = 1001;
 --------
 c = 1010;
-k = 1001;
+k = 1001; 
 --------
 d = 0011; (d este egal cu p)
 

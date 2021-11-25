@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = Teacher_s_Catalog_Project
+build_property.ProjectDir = E:\2. Coding\FloFlo25\Facultate\Anul 2\Sem 1\Metode avansate de programare\Laborator\Teacher's Catalog\Teacher's Catalog Project\

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>_2021__EXP_MAP_Floruta_Raul_03_</RootNamespace>
+  </PropertyGroup>
+
+</Project>

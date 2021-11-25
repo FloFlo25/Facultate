@@ -1,0 +1,12 @@
+Scrieti un program C# care calculeaza valori hash pentru mesaje (text sau fisiere) 
+cu algoritmii hash cripografici implementati in biblioteca .NET
+
+Programul trebuie sa permita: 
+- alegerea fisierului de pe disc (sau introducerea textului)
+- alegerea algoritmului hash
+- afisarea rezultatului se va face in hexazecimal (fiecare octet al relzultatului se va afisa pe doua cifre hexazecimale).
+(- calculul valorii hash trebuie sa faca asincron) folositi aync/await. 
+
+
+ 
+
