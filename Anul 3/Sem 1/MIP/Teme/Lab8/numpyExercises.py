@@ -1,3 +1,4 @@
+# Make a python program that shows the product of two matrixes(size of 2x2)
 import numpy as np
 
 def print_matrix_without_brackets(two_dimensional_array):
